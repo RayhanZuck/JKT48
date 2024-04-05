@@ -5,6 +5,31 @@
     "thumbnail": "https://telegra.ph/file/1278714555c9edc195a22.jpg"
   },
   {
+    "judul": "Only Today",
+    "link": "https://raw.githubusercontent.com/RayhanZuck/JKT48/main/sound/Only Today.mp3",
+    "thumbnail": "https://telegra.ph/file/e36a0b4d4c6f800bea44a.jpg"
+  },
+  {
+    "judul": "Birth",
+    "link": "https://raw.githubusercontent.com/RayhanZuck/JKT48/main/sound/Birth.mp3",
+    "thumbnail": "https://telegra.ph/file/b1464006e4e14f5313747.jpg"
+  },
+  {
+    "judul": "Shonichi",
+    "link": "https://raw.githubusercontent.com/RayhanZuck/JKT48/main/sound/Shonichi.mp3",
+    "thumbnail": "https://telegra.ph/file/e4bd8180edeeab95372a7.jpg"
+  },
+  {
+    "judul": "Sweet & Bitter",
+    "link": "https://raw.githubusercontent.com/RayhanZuck/JKT48/main/sound/Sweet & Bitter.mp3",
+    "thumbnail": "https://telegra.ph/file/dd22f952165d0436d9f62.jpg"
+  },
+  {
+    "judul": "Fortune Cookie in Love (Fortune Cookie Yang Mencinta)",
+    "link": "https://raw.githubusercontent.com/RayhanZuck/JKT48/main/sound/Fortune Cookie.mp3",
+    "thumbnail": "https://telegra.ph/file/2f2eb7f72d1450972dcc8.jpg"
+  },
+  {
     "judul": "Sayonara Crawl",
     "link": "https://raw.githubusercontent.com/RayhanZuck/JKT48/main/sound/Sayonara Crawl.mp3",
     "thumbnail": "https://telegra.ph/file/78f273dc17e3bd6b1ab6d.jpg"
@@ -23,5 +48,10 @@
     "judul": "Benang Sari, Putik, dan Kupu-Kupu Malam",
     "link": "https://raw.githubusercontent.com/RayhanZuck/JKT48/main/sound/Oshibe.mp3",
     "thumbnail": "https://telegra.ph/file/491dfb6eb408d023b6b08.jpg"
+  },
+  {
+    "judul": "Heavy Rotation",
+    "link": "https://raw.githubusercontent.com/RayhanZuck/JKT48/main/sound/Heavy Rotation.mp3",
+    "thumbnail": "https://telegra.ph/file/3fe2bead7fdff268e4cec.jpg"
   }
 ]
