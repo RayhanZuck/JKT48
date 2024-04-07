@@ -29,11 +29,11 @@
 <img src="https://raw.githubusercontent.com/RayhanZuck/JKT48/main/img/IMG-20240408-WA0045.png"></img></a>
 ```sh
 ## Project kecil saya untuk
-fitur game tebak tebakan JKT48
-lewat bot WhatsApp, barangkali
-ada yang liat Repositori
-ini dan berkenan mencoba
-game, klik tombol dibawah
+fitur game tebak tebakan
+JKT48 lewat bot WhatsApp
+barangkali ada yang liat
+Repositori ini dan berkenan
+mencoba game klik tombol⬇️
 ```
   <a href="https://chat.whatsapp.com/CwSbKRt14kUJbn9dW8R4Tr">
     <img alt="Python ^" src="https://img.shields.io/badge/MAINKAN%20GAME-25d366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
