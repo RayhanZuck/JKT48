@@ -35,5 +35,6 @@ Barangkali ada yang liat
 Repositori ini dan berkenan
 mencoba game, klik tombol dibawah
 ```
-<a href="[https://chat.whatsapp.com/CwSbKRt14kUJbn9dW8R4Tr"><img alt="Starts" src="https://img.shields.io/badge/MAINKAN%20GAME-25d366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <a href="https://chat.whatsapp.com/CwSbKRt14kUJbn9dW8R4Tr">
+    <img alt="Python ^" src="https://img.shields.io/badge/MAINKAN%20GAME-25d366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
