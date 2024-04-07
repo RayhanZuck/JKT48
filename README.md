@@ -25,32 +25,16 @@
 </div>
 <br>
 
-## Tampilan Script
-<img src="https://raw.githubusercontent.com/RayhanZuck/FBShare/main/tampilan.jpg"></img></a>
-## Tampilan Script V.Simple
-<img src="https://raw.githubusercontent.com/RayhanZuck/FBShare/main/tampilan_simple.png"></img></a>
-<img src="https://raw.githubusercontent.com/RayhanZuck/FBShare/main/tampilan_share.png"></img></a>
-## Pasang Dan Menjalankan
+## Tampilan Game Tebak Lagu
+<img src="https://raw.githubusercontent.com/RayhanZuck/JKT48/main/img/IMG-20240408-WA0045.png"></img></a>
 ```sh
-git clone https://github.com/RayhanZuck/FBShare
-cd FBShare
-python run.py
-Jalankan Script Simple:
-cd FBShare
-python simple.py
+Project kecil saya untuk
+fitur game tebak lagu JKT48
+lewat bot WhatsApp
+Barangkali ada yang liat
+Repositori ini dan berkenan
+mencoba game, klik tombol dibawah
 ```
-## Metode Login
-```sh
-Login Menggunakan Cookies
-
-Rekomendasi Browser:
-Kiwi Browser
-Via Browser
-
-Ekstensi Untuk Kiwi Browser:
-Cookiedough
-
-!Via Browser Ambil Cookie Tanpa Ekstensi
-```
-
-## Project kecil saya untuk fitur game tebak lagu JKT48 di bot WhatsApp, barangkali ada yang liat Repositori ini dan berkenan mencoba game nya, join Grup WA: https://chat.whatsapp.com/CwSbKRt14kUJbn9dW8R4Tr dan ketik .tebaklagujkt48, Terimakasih
+<a href="[https://www.facebook.com/RayhanBusiness](https://chat.whatsapp.com/CwSbKRt14kUJbn9dW8R4Tr)">
+<img alt="Starts" src="https://img.shields.io/badge/MAINKAN%20GAME-25d366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
