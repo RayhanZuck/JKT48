@@ -25,7 +25,7 @@
 </div>
 <br>
 
-## Tampilan Game Tebak Lagu
+## Game Tebak Lagu
 <img src="https://raw.githubusercontent.com/RayhanZuck/JKT48/main/img/IMG-20240408-WA0045.png"></img></a>
 ```sh
 Project kecil saya untuk
