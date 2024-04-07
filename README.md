@@ -28,8 +28,8 @@
 ## Game Tebak Lagu
 <img src="https://raw.githubusercontent.com/RayhanZuck/JKT48/main/img/IMG-20240408-WA0045.png"></img></a>
 ```sh
-Project kecil saya untuk
-fitur game tebak lagu JKT48
+## Project kecil saya untuk
+fitur game tebak tebakan JKT48
 lewat bot WhatsApp, barangkali
 ada yang liat Repositori
 ini dan berkenan mencoba
