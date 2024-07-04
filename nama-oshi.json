@@ -1,5 +1,6 @@
 [
   {
+  "gen": "Gen 12",
   "nama": ["Victoria Kimberly",
 "Shabilqis Naila",
 "Ribka Budiman",
@@ -16,10 +17,10 @@
 "Aurhel Alana",
 "Aisa Maharani",
 "Adeline Wijaya",
-"Abigail Rachel"],
-"gen": "Gen 12"
+"Abigail Rachel"]
   },
   {
+  "gen": "Gen 11",
   "nama": ["Michelle Alexandra",
 "Jeane Victoria",
 "Greesella Adhalia",
@@ -33,10 +34,10 @@
 "Cathleen Nixie",
 "Aulia Asyira",
 "Anindya Ramadhani",
-"Alya Amanda"],
-"gen": "Gen 11"
+"Alya Amanda"]
   },
   {
+  "gen": "Gen 10",
   "nama": ["Raisha Syifa",
 "Naura Safinatunnajah",
 "Jesslyn Elly",
@@ -51,6 +52,7 @@
 "gen": "Gen 10"
   },
   {
+  "gen": "Gen 9",
   "nama": ["Tiara Sasi",
 "Shinta Devi",
 "Putri Elzahra",
@@ -63,10 +65,10 @@
 "Caithlyn Gwyneth",
 "Chalista Ellysia",
 "Christabel Jocelyn",
-"Indah Cahya"],
-"gen": "Gen 9"
+"Indah Cahya"]
   },
   {
+  "gen": "Gen 8",
   "nama": ["Zahra Nur",
 "Umega Maulana",
 "Salma Annisa",
@@ -85,9 +87,9 @@
 "Amirah Fatin",
 "Cornelia Vanisa",
 "Devytha Maharani"],
-"gen": "Gen 8"
   },
   {
+  "gen": "Gen 7",
   "nama": ["Aiko Harumi",
 "Angelina Christy",
 "Aurel Mayori",
@@ -107,10 +109,10 @@
 "Nabila Fitriana",
 "Rifa Fatmasari",
 "Viona Fadrin",
-"Yessica Tamara"],
-"gen": "Gen 7"
+"Yessica Tamara"]
   },
   {
+  "gen": "Gen 6",
   "nama": ["Erika Sintia",
 "Putri Cahyaning Anggraini",
 "Rinanda Syahputri",
@@ -125,10 +127,10 @@
 "Amanda Priscella",
 "Anastasya Narwastu Tety Handuran",
 "Ariella Calista Ichwan",
-"Denise Caroline"],
-"gen": "Gen 6"
+"Denise Caroline"]
   },
   {
+  "gen": "Gen 5",
   "nama": ["Adhisty Zara",
 "Anggita Destiana Dewi",
 "Chintya Wirawan",
@@ -145,10 +147,10 @@
 "Ruth Damayanti Sitanggang",
 "Rissanda Putri Tuarissa",
 "Sania Julia Montolalu",
-"Violeta Burhan"],
-"gen": "Gen 5"
+"Violeta Burhan"]
   },
   {
+  "gen": "Gen 4",
   "nama": ["Adriani Elisabeth",
 "Christi",
 "Cindy Hapsari Maharani Pujiantoro Putri",
@@ -168,10 +170,10 @@
 "Takashima Yua",
 "Tan Zhi Hui Celine",
 "Yoshihara Merii",
-"Zahra Yuriva Dermawan"],
-"gen": "Gen 4"
+"Zahra Yuriva Dermawan"]
   },
   {
+  "gen": "Gen 3",
   "nama": ["Alycia Ferryana",
 "Amanda Dwi Arista",
 "Andela Yuwono",
@@ -203,10 +205,10 @@
 "Syahfira Angela Nurhaliza",
 "Triarona Kusuma",
 "Yansen Indiani",
-"Zebi Magnolia Fawwaz"],
-"gen": "Gen 3"
+"Zebi Magnolia Fawwaz"]
   },
   {
+  "gen": "Gen 2",
   "nama": ["Alicia Chanzia",
 "Althea Callista",
 "Annisa Athia",
@@ -238,10 +240,10 @@
 "Sinka JulianiThalia",
 "Thalia Ivanka Elizabeth",
 "Viviyona Apriani",
-"Wako Junna"],
-"gen": "Gen 2"
+"Wako Junna"]
   },
   {
+  "gen": "Gen 1",
   "nama": ["Alissa Galliamova",
 "Allisa Astri",
 "Ayana Shahab",
@@ -269,7 +271,6 @@
 "Siti Gayatri",
 "Sonia Natalia",
 "Sonya Pandarmawan",
-"Stella Cornelia"],
-"gen": "Gen 1"
+"Stella Cornelia"]
   }
 ]
