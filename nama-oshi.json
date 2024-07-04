@@ -1,5 +1,6 @@
-{
-  "gen12": ["Victoria Kimberly",
+[
+  {
+  "nama": ["Victoria Kimberly",
 "Shabilqis Naila",
 "Ribka Budiman",
 "Regina Wilian",
@@ -16,8 +17,10 @@
 "Aisa Maharani",
 "Adeline Wijaya",
 "Abigail Rachel"],
-
-"gen11": ["Michelle Alexandra",
+"gen": "Gen 12"
+  },
+  {
+  "nama": ["Michelle Alexandra",
 "Jeane Victoria",
 "Greesella Adhalia",
 "Grace Octaviani",
@@ -31,8 +34,10 @@
 "Aulia Asyira",
 "Anindya Ramadhani",
 "Alya Amanda"],
-
-"gen10": ["Raisha Syifa",
+"gen": "Gen 11"
+  },
+  {
+  "nama": ["Raisha Syifa",
 "Naura Safinatunnajah",
 "Jesslyn Elly",
 "Indira Seruni",
@@ -43,8 +48,10 @@
 "Amanda Sukma",
 "Alia Giselle",
 "Abieza Syabira"],
-
-"gen9": ["Tiara Sasi",
+"gen": "Gen 10"
+  },
+  {
+  "nama": ["Tiara Sasi",
 "Shinta Devi",
 "Putri Elzahra",
 "Olivia Payten",
@@ -57,8 +64,10 @@
 "Chalista Ellysia",
 "Christabel Jocelyn",
 "Indah Cahya"],
-
-"gen8": ["Zahra Nur",
+"gen": "Gen 9"
+  },
+  {
+  "nama": ["Zahra Nur",
 "Umega Maulana",
 "Salma Annisa",
 "Lulu Salsabila",
@@ -76,8 +85,10 @@
 "Amirah Fatin",
 "Cornelia Vanisa",
 "Devytha Maharani"],
-
-"gen7": ["Aiko Harumi",
+"gen": "Gen 8"
+  },
+  {
+  "nama": ["Aiko Harumi",
 "Angelina Christy",
 "Aurel Mayori",
 "Azizi Asadel",
@@ -97,8 +108,10 @@
 "Rifa Fatmasari",
 "Viona Fadrin",
 "Yessica Tamara"],
-
-"gen6": ["Erika Sintia",
+"gen": "Gen 7"
+  },
+  {
+  "nama": ["Erika Sintia",
 "Putri Cahyaning Anggraini",
 "Rinanda Syahputri",
 "Riska Amelia Putri",
@@ -113,8 +126,10 @@
 "Anastasya Narwastu Tety Handuran",
 "Ariella Calista Ichwan",
 "Denise Caroline"],
-
-"gen5": ["Adhisty Zara",
+"gen": "Gen 6"
+  },
+  {
+  "nama": ["Adhisty Zara",
 "Anggita Destiana Dewi",
 "Chintya Wirawan",
 "Citra Ayu Pranajaya Wibrado",
@@ -131,8 +146,10 @@
 "Rissanda Putri Tuarissa",
 "Sania Julia Montolalu",
 "Violeta Burhan"],
-
-"gen4": ["Adriani Elisabeth",
+"gen": "Gen 5"
+  },
+  {
+  "nama": ["Adriani Elisabeth",
 "Christi",
 "Cindy Hapsari Maharani Pujiantoro Putri",
 "Fidly Immanda Azzahra",
@@ -152,8 +169,10 @@
 "Tan Zhi Hui Celine",
 "Yoshihara Merii",
 "Zahra Yuriva Dermawan"],
-
-"gen3": ["Alycia Ferryana",
+"gen": "Gen 4"
+  },
+  {
+  "nama": ["Alycia Ferryana",
 "Amanda Dwi Arista",
 "Andela Yuwono",
 "Anggie Putri Kurniasari",
@@ -185,8 +204,10 @@
 "Triarona Kusuma",
 "Yansen Indiani",
 "Zebi Magnolia Fawwaz"],
-
-"gen2": ["Alicia Chanzia",
+"gen": "Gen 3"
+  },
+  {
+  "nama": ["Alicia Chanzia",
 "Althea Callista",
 "Annisa Athia",
 "Annisa Athia Zainun Faqiha",
@@ -218,8 +239,10 @@
 "Thalia Ivanka Elizabeth",
 "Viviyona Apriani",
 "Wako Junna"],
-
-"gen1": ["Alissa Galliamova",
+"gen": "Gen 2"
+  },
+  {
+  "nama": ["Alissa Galliamova",
 "Allisa Astri",
 "Ayana Shahab",
 "Beby Chaesara Anadila",
@@ -246,5 +269,7 @@
 "Siti Gayatri",
 "Sonia Natalia",
 "Sonya Pandarmawan",
-"Stella Cornelia"]
-}
+"Stella Cornelia"],
+"gen": "Gen 1"
+  }
+]
